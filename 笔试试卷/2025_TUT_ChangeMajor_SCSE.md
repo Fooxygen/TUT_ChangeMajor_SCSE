@@ -1,14 +1,8 @@
 <font size=2>试卷类型：B | 文档编排：Fooxygen（考生）</font>
 
-<p align="center">2025 年天津理工大学计算机科学与工程学院转专业考试</p>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2>高级语言程序设计</h2></summary>
-  </ul>
-</div>
-
-<p align="center">考试时间：60 分钟 | 线下评测时间：30 分钟</p>
+<center><font size=4><p style="line-height:1.5">2025 年天津理工大学计算机科学与工程学院转专业考试</p></font></center>
+<center><font size=5><b><p style="line-height:1.0">高级语言程序设计</p></b></font></center>
+<center><font size=3>考试时间：60 分钟 | 线下评测时间：30 分钟</font></center>
 
 #### 试卷编排与考前提示
 - 本卷除如下 **考试注意事项及评分说明** 和 **试题** 外，均与原卷风格和内容不同，不影响作答.
